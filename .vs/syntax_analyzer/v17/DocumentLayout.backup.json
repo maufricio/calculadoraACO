@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROGRAMACION\\calculadora\\syntax_analyzer\\",
+  "WorkspaceRootPath": "D:\\PROGRAMACION\\calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F121139-6C14-4A85-B482-6E61A21911A2}|syntax_analyzer.vcxproj|D:\\PROGRAMACION\\calculadora\\syntax_analyzer\\syntax_analyzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CFE744E3-0039-4CBB-8F75-50DA02448D5C}|solver\\solver.vcxproj|D:\\PROGRAMACION\\calculadora\\solver\\solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE744E3-0039-4CBB-8F75-50DA02448D5C}|solver\\solver.vcxproj|solutionrelative:solver\\solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F121139-6C14-4A85-B482-6E61A21911A2}|syntax_analyzer.vcxproj|D:\\PROGRAMACION\\calculadora\\syntax_analyzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F121139-6C14-4A85-B482-6E61A21911A2}|syntax_analyzer.vcxproj|solutionrelative:syntax_analyzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,20 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "syntax_analyzer.cpp",
-              "DocumentMoniker": "D:\\PROGRAMACION\\calculadora\\syntax_analyzer\\syntax_analyzer.cpp",
-              "RelativeDocumentMoniker": "syntax_analyzer.cpp",
-              "ToolTip": "D:\\PROGRAMACION\\calculadora\\syntax_analyzer\\syntax_analyzer.cpp",
-              "RelativeToolTip": "syntax_analyzer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Title": "solver.cpp",
+              "DocumentMoniker": "D:\\PROGRAMACION\\calculadora\\solver\\solver.cpp",
+              "RelativeDocumentMoniker": "solver\\solver.cpp",
+              "ToolTip": "D:\\PROGRAMACION\\calculadora\\solver\\solver.cpp",
+              "RelativeToolTip": "solver\\solver.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJ8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:56:59.759Z",
+              "WhenOpened": "2024-09-10T19:16:16.125Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "syntax_analyzer.cpp",
+              "DocumentMoniker": "D:\\PROGRAMACION\\calculadora\\syntax_analyzer.cpp",
+              "RelativeDocumentMoniker": "syntax_analyzer.cpp",
+              "ToolTip": "D:\\PROGRAMACION\\calculadora\\syntax_analyzer.cpp",
+              "RelativeToolTip": "syntax_analyzer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T17:56:59.759Z"
             }
           ]
         }

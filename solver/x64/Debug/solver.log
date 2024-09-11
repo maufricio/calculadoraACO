@@ -1,0 +1,27 @@
+﻿  solver.cpp
+D:\PROGRAMACION\calculadora\solver\solver.cpp(121,33): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\solver\solver.cpp(121,33): warning C4244:         with
+D:\PROGRAMACION\calculadora\solver\solver.cpp(121,33): warning C4244:         [
+D:\PROGRAMACION\calculadora\solver\solver.cpp(121,33): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\solver\solver.cpp(121,33): warning C4244:         ]
+D:\PROGRAMACION\calculadora\solver\solver.cpp(152,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\solver\solver.cpp(152,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\solver\solver.cpp(152,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\solver\solver.cpp(152,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\solver\solver.cpp(152,26): warning C4244:         ]
+D:\PROGRAMACION\calculadora\solver\solver.cpp(158,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\solver\solver.cpp(158,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\solver\solver.cpp(158,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\solver\solver.cpp(158,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\solver\solver.cpp(158,26): warning C4244:         ]
+D:\PROGRAMACION\calculadora\solver\solver.cpp(164,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\solver\solver.cpp(164,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\solver\solver.cpp(164,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\solver\solver.cpp(164,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\solver\solver.cpp(164,26): warning C4244:         ]
+D:\PROGRAMACION\calculadora\solver\solver.cpp(170,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\solver\solver.cpp(170,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\solver\solver.cpp(170,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\solver\solver.cpp(170,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\solver\solver.cpp(170,26): warning C4244:         ]
+  solver.vcxproj -> D:\PROGRAMACION\calculadora\x64\Debug\solver.exe
