@@ -21,9 +21,9 @@ int main()
 	mapOps['/'] = { 4,2 };
 	mapOps['*'] = { 3,2 };
 	mapOps['+'] = { 2,2 };
-	mapOps['-'] = { 1,2 };
+	mapOps['-'] = { 2,2 };
 
-	std::string sExpression = "1+2*4-3/3-5*3"; // se asume que la expresion no contiene espacios y que no contiene caracteres invalidos
+	std::string sExpression = "1+2*4-3 "; // se asume que la expresion no contiene espacios y que no contiene caracteres invalidos
 
 	// necesitamos 2 containers para el algoritmo
 

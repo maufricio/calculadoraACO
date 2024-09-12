@@ -1,0 +1,27 @@
+﻿  parenthesis-handler.cpp
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(154,33): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(154,33): warning C4244:         with
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(154,33): warning C4244:         [
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(154,33): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(154,33): warning C4244:         ]
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(185,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(185,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(185,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(185,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(185,26): warning C4244:         ]
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(191,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(191,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(191,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(191,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(191,26): warning C4244:         ]
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(197,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(197,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(197,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(197,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(197,26): warning C4244:         ]
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(203,26): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(203,26): warning C4244:         with
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(203,26): warning C4244:         [
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(203,26): warning C4244:             _Ty=int
+D:\PROGRAMACION\calculadora\parenthesis-handler\parenthesis-handler.cpp(203,26): warning C4244:         ]
+  parenthesis-handler.vcxproj -> D:\PROGRAMACION\calculadora\x64\Debug\parenthesis-handler.exe
