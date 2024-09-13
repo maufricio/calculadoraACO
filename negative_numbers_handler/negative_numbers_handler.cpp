@@ -11,6 +11,7 @@
 
 int main()
 {
+	//PEDMAS (Parentesis, Exponentes, Division, Multiplicacion, Adicion, Sustraccion)
 	struct sOperator
 	{
 		uint8_t precedence = 0; // la prioridad de la operacion
@@ -41,10 +42,23 @@ int main()
 		sOperator op;
 	};
 
+	// region TOMAR NUMEROS DE MAS DE UN DIGITO
+	// stackAuxiliar superEntrada
+	// FOR >> recorre todos los numeros
+	//     >>>> variable auxiliar: esNumero;;; variable numeroString
+	//	   >>>> si es un numero, se concatena con el numero anterior	
+	//     >>>>>>si esNumero es true, y el siguiente caracter no es un numero, se agrega numeroString y el caracter a la entradaParseada
+	//	   >>>> si no es un numero, se agrega el caracter a la entradaParseada
+	// endregion
+
+	// s(3923) c(3443) 
+
 	std::deque<sSymbol> stkHolding;
 	std::deque<sSymbol> stkOutput;
+
 	sSymbol symPrevious = { "0", sSymbol::Type::Literal_Numeric, 0, 0 }; // se inicializa con un valor arbitrario. NOTA: {0,0} son los valores que toma el sOperator en el struct sSymbol
 	int pass = 0; // para poder aceptar un - o + al inicio de la expresion
+
 
 	for (const char c : sExpression)
 	{
@@ -96,7 +110,7 @@ int main()
 			// se utiliza & para obtener la direccion de memoria de la variable y no una copia
 			sOperator new_op = mapOps[c]; // se cambia para poder modificar el valor de arguments y precedence
 
-			if (c == '-' || c == '+')
+			if (c == '-' || c == '+') 
 			{
 				if ((symPrevious.type != sSymbol::Type::Literal_Numeric
 					&& symPrevious.type != sSymbol::Type::Parenthesis_Close) || pass == 0)
@@ -164,7 +178,7 @@ int main()
 	std::cout << "\n";
 
 	// Solver
-	std::deque<double/> stkSolve;
+	std::deque<double> stkSolve;
 
 	for (const auto& inst : stkOutput) // recorremos todos los valores de la pila Output
 	{

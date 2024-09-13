@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parenthesis-handler", "pare
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "negative_numbers_handler", "negative_numbers_handler\negative_numbers_handler.vcxproj", "{603217CF-D92E-4244-A9D3-35176DDCD724}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathFunctions", "MathFunctions\MathFunctions.vcxproj", "{537CF03E-7440-4B71-B225-DE83597DAB3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{603217CF-D92E-4244-A9D3-35176DDCD724}.Release|x64.Build.0 = Release|x64
 		{603217CF-D92E-4244-A9D3-35176DDCD724}.Release|x86.ActiveCfg = Release|Win32
 		{603217CF-D92E-4244-A9D3-35176DDCD724}.Release|x86.Build.0 = Release|Win32
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Debug|x64.ActiveCfg = Debug|x64
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Debug|x64.Build.0 = Debug|x64
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Debug|x86.Build.0 = Debug|Win32
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Release|x64.ActiveCfg = Release|x64
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Release|x64.Build.0 = Release|x64
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Release|x86.ActiveCfg = Release|Win32
+		{537CF03E-7440-4B71-B225-DE83597DAB3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
