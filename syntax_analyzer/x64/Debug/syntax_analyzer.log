@@ -1,2 +1,3 @@
 ﻿  syntax_analyzer.cpp
-  syntax_analyzer.vcxproj -> D:\PROGRAMACION\calculadora\x64\Debug\syntax_analyzer.exe
+  LINK : no se encontró C:\Users\admin\Documents\Año 2024\UDB\CICLO II\ACO\PROYECTO_CATEDRA\x64\Debug\syntax_analyzer.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  syntax_analyzer.vcxproj -> C:\Users\admin\Documents\Año 2024\UDB\CICLO II\ACO\PROYECTO_CATEDRA\x64\Debug\syntax_analyzer.exe
